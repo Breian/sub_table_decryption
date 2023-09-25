@@ -1,0 +1,27 @@
+VERSION 11 1 1
+SYM_BEGIN 9
+6 9
+error_key
+3 11
+ciphertext1
+4 11
+ciphertext2
+7 16
+error_ciphertext
+1 3
+key
+5 11
+upper_lower
+0 12
+substitution
+2 9
+plaintext
+8 84
+C:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/model_dpi.sv
+SYM_END
+TYPEDEF_BEGIN 0
+TYPEDEF_END 
+TF_BEGIN 1
+0 503 
+0 -1 -1 4 7 1 0 0x0 0 0x1 0 1 0x0 1 0 1 16 1 12 1025 96 0 0 11 0 0x0 1 0 12 0 -1 1 278571 8 0 7 7 0 8 0x1 0x1 1 0 2 0x0 1 0 1 16 1 1 1025 8 0 0 0 0 0x0 1 0 12 0 -1 1 278571 8 0 7 7 0 8 0x1 0x1 1 0 3 0x0 1 0 12 0 -1 4 278571 8 0 7 7 0 8 0x1 1 0 4 0x0 1 0 12 0 -1 4 278571 8 0 7 7 0 8 0x1 1 0 5 0x0 1 0 12 0 1 4 41 1 0 0 0 0 1 0x1 1 0 6 0x0 1 0 1 16 1 1 1025 8 0 0 0 0 0x0 1 0 12 0 -1 1 278571 8 0 7 7 0 8 0x1 0x1 1 0 7 0x0 1 0 1 16 1 1 1025 8 0 0 0 0 0x0 1 0 12 0 -1 1 278571 8 0 7 7 0 8 0x1 0x1 1 1 8 3  
+TF_END 

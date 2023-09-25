@@ -1,0 +1,63 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/HARDWARE SECURITY/sub_table_dec_mod_project/modelsim
+vtb
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1689347680
+!i10b 1
+!s100 d;JWcKPG@[86::oO:F2do2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRz;::3?KDXNZ95_i^SEOQ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model
+w1689264527
+8C:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/tb.sv
+FC:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/tb.sv
+!i122 8
+L0 1 40
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!i94 1
+!s108 1689347680.000000
+!s107 C:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/tb.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+vtest
+R0
+!s110 1689523608
+!i10b 1
+!s100 EgN4L??cj2`ogBN]loiZ53
+R1
+I_MkC>fHD76^k@Ed;chcY@2
+R2
+S1
+R3
+w1689523599
+8C:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/model_dpi.sv
+FC:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/model_dpi.sv
+!i122 38
+L0 1 68
+R4
+r1
+!s85 0
+31
+!i94 1
+!s108 1689523608.000000
+!s107 C:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/model_dpi.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/user/Desktop/HARDWARE_SECURITY/sub_table_dec_mod_project/model/model_dpi.sv|
+!i113 1
+R5
+R6
